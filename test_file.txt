@@ -1,1 +1,3 @@
 Write one line to text file
+try to use nano redactor
+
