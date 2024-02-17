@@ -1,5 +1,9 @@
-You should use next commands:
-git pull
-git add .
-git commit -m info about commit >> pull_request_template.md
-git push
+## Describe your changes
+
+## Issue ticket number and link
+
+## Checklist before requesting a review
+- [ ] I have performed a self-review of my code
+- [ ] If it is a core feature, I have added thorough tests
+- [ ] Do we need to implement analytics?
+- [ ] Will this be part of a product update? If yes, please write one phrase about this update
